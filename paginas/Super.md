@@ -15,3 +15,4 @@ Cosas que el "super" etiqueta, que son verdaderas mentiras:
 - Cualquier embutido: Un embutido real lleva un proceso de fermentación controlada que cambia absolutamente la naturaleza del material y resulta en sabores muy complejos. Los embutidos del super con papa con olor a chancho y almidones+estabilizadores.
 - Yogurt y natilla: Agua con almidón y olor a lácteo. Por cierto, el sous-vide es **perfecto** para hacer yogurt.
 - Carnes de cerdo: Son rellenados con salmuera, alterando el peso, sabor y complicando la vida si uno desea hacer su propia salmuera. Mejor le pide al carnicero que le parta en frente suyo, un corte más grueso.
+- Mayonesa: Quién sabe que es lo que venden a uno como si fuera mayonesa. No. Casera y punto.
