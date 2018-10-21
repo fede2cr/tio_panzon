@@ -16,3 +16,4 @@ Cosas que el "super" etiqueta, que son verdaderas mentiras:
 - Yogurt y natilla: Agua con almidón y olor a lácteo. Por cierto, el sous-vide es **perfecto** para hacer yogurt.
 - Carnes de cerdo: Son rellenados con salmuera, alterando el peso, sabor y complicando la vida si uno desea hacer su propia salmuera. Mejor le pide al carnicero que le parta en frente suyo, un corte más grueso.
 - Mayonesa: Quién sabe que es lo que venden a uno como si fuera mayonesa. No. Casera y punto.
+- Miel de maple: Nunca compre ni use la cosa horrible que tratan de hacer pasar. Use solo pura, de la cara; y no hablemos más del asunto.
