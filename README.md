@@ -5,7 +5,9 @@ Libro de cocina para imprimir en blub
 
 - [ ] Portada
 - [ ] Como experimentar
+- [ ] Imperdibles
 - [ ] Herramientas
+- [ ] Limpieza
 - [ ] Cuchillos
 - [ ] Refri
 - [ ] Chocolate
@@ -14,5 +16,13 @@ Libro de cocina para imprimir en blub
 - [x] El super apesta
 - [x] Ensaladas
 - [x] Ragú
+- [ ] Pie
+- [ ] Helados
+- [ ] Trufas
+- [ ] Sodas
+- [ ] Masitas
 - [ ] Sous-vide
 - [ ] Contraportada
+
+
+Total: 19
